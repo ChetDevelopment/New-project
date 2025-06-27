@@ -2,5 +2,5 @@ node_modules/
 venrdors/
 secret/
 .env/
-main.js/
-.gitignore/
+main.js
+
